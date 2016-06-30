@@ -1,8 +1,8 @@
 ## Robot Coupe Eurobot 2016
 
 * Code du robot pour la coupe Eurobot 2016 de l'Université de Nantes
-* Benjamin BROSSEAU et Valentin LORTET
-* Adapté des travaux de Kevin LE MOGUEN et Thibault d'ARTIGUES
+* Benjamin BROSSEAU, Julien GODET et Valentin LORTET
+* Adapté des travaux de Kevin LE MOGUEN et Thibault d'ARTIGUES (https://github.com/Lortet/Robot_Coupe_Eurobot_2015)
 * CC-BY
 
 **Fichiers**
